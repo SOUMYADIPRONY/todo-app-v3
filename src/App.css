@@ -1,0 +1,22 @@
+
+
+input{
+  width: 100%;
+}
+
+.items-container{
+  text-align: left;
+}
+
+.sd-row{
+  margin: 7px 3px;
+}
+
+.add{
+  min-width: 80px;
+  margin-right: 120px;
+}
+
+.delete{
+  min-width: 80px;
+}
